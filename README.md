@@ -368,5 +368,5 @@ Based on the empirical evidence of this run:
 ## Author & Course Information
 - **Course**: Foundations of Generative AI (ICT4403)
 - **Assignment**: Assignment 2 — Autoregressive Text Generation
-- **Author**: Elton Lewis
+- **Author**: Deepak h suvarna 
 - **Dataset**: [WikiText-2 (Salesforce/wikitext)](https://huggingface.co/datasets/Salesforce/wikitext)
