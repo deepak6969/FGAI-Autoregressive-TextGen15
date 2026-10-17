@@ -1,0 +1,37 @@
+{
+  "train": {
+    "raw_entries": 36718,
+    "eligible_entries": 20887,
+    "selected_entries": 8000,
+    "tokens": 740733,
+    "sequences": 246901,
+    "unknown_tokens": 51759,
+    "unknown_rate": 0.06987538019772306
+  },
+  "validation": {
+    "raw_entries": 3760,
+    "eligible_entries": 2203,
+    "selected_entries": 1500,
+    "tokens": 137629,
+    "sequences": 45867,
+    "unknown_tokens": 14871,
+    "unknown_rate": 0.10805135545560891
+  },
+  "test": {
+    "raw_entries": 4358,
+    "eligible_entries": 4358,
+    "selected_entries": 4358,
+    "tokens": 228714,
+    "sequences": 76228,
+    "unknown_tokens": 26656,
+    "unknown_rate": 0.11654730361936742
+  },
+  "vocabulary_size": 10000,
+  "dataset": "Salesforce/wikitext",
+  "dataset_config": "wikitext-2-raw-v1",
+  "fingerprints": {
+    "train": "5d4fb603254a7a5b",
+    "validation": "51d84d52d095f90d",
+    "test": "a46124b21ac53738"
+  }
+}

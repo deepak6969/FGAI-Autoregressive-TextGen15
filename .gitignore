@@ -1,0 +1,37 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# PyTorch Model Checkpoints & Large Binary Weights
+*.pt
+*.pth
+*.bin
+*.onnx
+*.safetensors
+
+# Compressed Archives
+*.zip
+*.tar.gz
+
+# Reports and Submissions (Private / LMS Upload - do not commit or push to git)
+*.docx
+*.pdf
+REPORT.md
+report/
+reports/
+submission/
+
+# OS and Scratch files
+.DS_Store
+Thumbs.db
+desktop.ini
